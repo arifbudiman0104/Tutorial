@@ -2,7 +2,9 @@
 Pembuatan laravel project saya akan menerangkan menggunakan 2 cara yaitu laragon dan laravel installer.
 ## Laragon
 #### Pembuatan Project
+![Alt text](Laravel%20Todo%20App/image.png)
 - Buka laragon, Start All
+
 ![Alt text](Laravel%20Todo%20App/image.png)
 - Buka Menu > Quick App > Laravel
 - Masukkan nama project "todo-livewire-breeze", tunggu sampai selesai
