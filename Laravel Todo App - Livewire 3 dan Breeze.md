@@ -4,20 +4,21 @@ Pembuatan laravel project saya akan menerangkan menggunakan 2 cara yaitu laragon
 #### Pembuatan Project
 - Buka laragon, Start All
 
-![Alt text](Laravel%20Todo%20App/image.png)
+    ![Alt text](Laravel%20Todo%20App/image.png)
 - Buka Menu > Quick App > Laravel
 - Masukkan nama project "todo-livewire-breeze", tunggu sampai selesai
 - Buka project laravel yang telah dibuat di Text Editor atau IDE php
 #### Install Laravel Breeze
 - Buka terminal dan eksekusi code berikut
-	```bash
-	composer require
-	```
+    ```bash
+    composer require
+    ```
 - ad
 #### Install Livewire 3
 ## Laravel Installer
 #### Install Laravel Installer
 #### Pembuatan Project
+
 ```bash
 laravel new todo-livewire-breeze
 ```
